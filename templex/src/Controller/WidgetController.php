@@ -29,11 +29,4 @@ class WidgetController extends ArrayObject
 
         parent::__construct($Templex->data);
     }
-
-
-    public function loadWidgets()
-    {
-
-        return true;
-    }
 }
