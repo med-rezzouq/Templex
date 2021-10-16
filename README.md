@@ -1,6 +1,6 @@
 # Templex Engine
 
-***I Tried To Create This mini Template engine Framework in order to simulate Warp framework in joomla  v4.X , the most used classes are the helpers there is about Ten so of them i had a project and i recreated only about 5 that i needed, helpers instances or global object instances as you know: are the following***
+***I Tried To Create This mini Template engine Framework in order to simulate Warp framework in joomla  v4.X , the most used classes are the helpers there is about Tens of them ,so i had a project and i recreated only about 5 class helpers that i needed, the helpers object instances are stored in global array indexs as you know: those i upgraded are the following***
 - [x] $this['config']
 - [x] $this['path']
 - [x] $this['template']
