@@ -8,7 +8,7 @@
 - [ ] $this['assets']
 - [x] $this['system']
 
-> but i did'nt make a global instance  assets   => $this['assets'], so you have to load your assets files and assets , feel fee fork my project and scaling up this feature!
+> but i did'nt make a global instance  assets   => $this['assets'], so you have to load your assets files and assets , feel fee fork my project and scaling up this feature
 
 
 
